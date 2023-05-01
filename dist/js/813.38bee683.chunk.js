@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_2_webpack_js=self.webpackChunk_2_webpack_js||[]).push([[813],{4359:function(e,n,a){a.r(n),a.d(n,{default:function(){return t}});var c=a(7294),s=a.p+"3b304308b4a655aec068.jpeg",t=function(){return(0,c.useEffect)((function(){console.info("ImagesUrl: ",s)}),[]),c.createElement("div",{className:"imagesPageContainer"})}}}]);
+//# sourceMappingURL=813.38bee683.chunk.js.map
